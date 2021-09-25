@@ -1,4 +1,6 @@
 ### Python template
+#IDE
+.idea/
 
 # data values
 database/
