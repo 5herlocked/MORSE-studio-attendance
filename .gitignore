@@ -1,6 +1,7 @@
 ### Python template
 
 # data values
+database/
 datasets/
 *.png
 *.pickle
